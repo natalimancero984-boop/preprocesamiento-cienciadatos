@@ -1,0 +1,10 @@
+# Archivos compilados de Python
+*.pyc
+
+# Carpetas cache
+__pycache__/
+
+# Configuración VS Code
+.vscode/
+
+# Variables de entorno

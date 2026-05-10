@@ -1,0 +1,10 @@
+# Preprocesamiento Ciencia de Datos
+
+## Objetivo
+Aplicar técnicas de preprocesamiento de datos usando Python y Pandas, además de utilizar Git y GitHub para control de versiones.
+
+## Estructura del proyecto
+
+- data/: datasets utilizados
+- preprocesamiento.py: funciones de limpieza y transformación
+- DOCUMENTACION.md: documentación del proyecto
