@@ -3,7 +3,7 @@
 # Preprocesamiento Ciencia de Datos
 
 ## Autor
-Natali Mancero
+Dayana Guaranga 
 
 ---
 
